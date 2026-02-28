@@ -1,9 +1,0 @@
-[tools]
-bat = "latest"
-fastfetch = "latest"
-fd = "latest"
-lazygit = "latest"
-neovim = "nightly"
-node = "latest"
-ripgrep = "latest"
-yazi = "latest"
